@@ -5,12 +5,12 @@
     overflow: scroll;
     border: 20px purple;
     border-style: dashed double;
+    background-color: royalblue;
 }
 
 .slideshow__img img {
     max-height: 470px;
     margin: 5px;
-    overflow-x: auto;
 }
 
 .slideshow__img img:hover {
