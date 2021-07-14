@@ -1,5 +1,3 @@
 @import url("./footer.css");
+@import url("./navbar.css");
 
-footer {
-    background-color: tomato;
-}
