@@ -1,4 +1,8 @@
+@import url("./footer.css");
 .mug-bar {
     display: flex;
-    size: 1365px;
   }
+
+footer {
+    background-color: tomato;
+}
