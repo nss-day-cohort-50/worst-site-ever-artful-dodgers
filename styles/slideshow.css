@@ -6,8 +6,12 @@
 }
 
 .slideshow__img img {
-    object-fit: cover;
     max-height: 470px;
     margin: 5px;
     overflow-x: auto;
+}
+
+.slideshow__img img:hover {
+    width: 700px;
+    border: dotted 5px purple;
 }
