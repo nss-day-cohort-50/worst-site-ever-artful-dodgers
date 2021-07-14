@@ -1,0 +1,21 @@
+article.worst_mug_ad {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid hotpink;
+    border-width: 1em;
+}
+
+
+section.adPicture {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid rgba(0, 99, 16, 0.74);
+    margin: 1em;
+}
+
+.adText {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid indianred;
+    margin: 1em;
+}
