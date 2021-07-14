@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: palevioletred;
   }
   
   li {
@@ -21,12 +21,24 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
+ 
+  .a {
+    color: teal;
+  }
+
+  .b {
+    color: lightblue;
+  }
+  
+  .c {
+    color: yellow;
+  }
+  
+  .d {
+    color: rgb(112, 80, 255);
+  }
   
   li a:hover:not(.active) {
-    background-color: #111;
-  }
+    background-color: rosybrown;
   
-  .active {
-    background-color: #04AA6D;
   }
-  

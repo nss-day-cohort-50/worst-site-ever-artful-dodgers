@@ -1,7 +1,5 @@
 @import url("coffeeAd.css");
 @import url("slideshow.css");
 @import url("./footer.css");
-
-footer {
-    background-color: tomato;
-}
+@import url("./navbar.css");
+/* test */
