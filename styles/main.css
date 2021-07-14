@@ -1,8 +1,4 @@
 .mug-bar {
-    display: flex; 
+    display: flex;
+    size: 1365px;
   }
-.mug-bar {
-    border: 1px dotted crimson;
-    padding: 1em;
-    margin: 0.5em;
-}
