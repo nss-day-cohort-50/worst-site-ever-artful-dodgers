@@ -1,0 +1,13 @@
+.slideshow {
+    display: flex;
+    width: 700px;
+    height: 500px;
+    overflow: scroll;
+}
+
+.slideshow__img img {
+    object-fit: cover;
+    max-height: 470px;
+    margin: 5px;
+    overflow-x: auto;
+}
