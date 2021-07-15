@@ -1,7 +1,16 @@
 @import url("coffeeAd.css");
 @import url("slideshow.css");
 @import url("./footer.css");
+<<<<<<< HEAD
 @import url("header.css");
 footer {
     background-color: tomato;
 }
+=======
+@import url("./navbar.css");
+/* test */
+
+body {
+    background-image: url("/images/static.gif");
+}
+>>>>>>> main
