@@ -7,6 +7,7 @@ article.coffee_mug_header {
         animation-timing-function: linear;
         animation-iteration-count: infinite;
         animation-duration: 45s;
+        background-color: rgb(255, 71, 246)
       }
       @keyframes spin {
         from { transform: rotateY(0deg); }
@@ -25,6 +26,7 @@ article.coffee_mug_header {
     animation-duration: 45s;
     animation-name: slidein;
     animation-iteration-count: 3;
+    background-color: rgb(86, 255, 71)
 }
     @keyframes slidein {
         from {
