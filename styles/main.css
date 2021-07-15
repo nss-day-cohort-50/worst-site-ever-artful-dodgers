@@ -5,11 +5,6 @@
 @import url("./navbar.css");
 @import url("./mug-bar.css");
 
-
-footer {
-    background-color: tomato;
-}
-
 body {
     background-image: url("/images/static.gif");
 }
