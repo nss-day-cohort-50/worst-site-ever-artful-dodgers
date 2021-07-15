@@ -19,8 +19,8 @@ article.coffee_mug_header {
         50% { text-shadow: 0 0 black; }
         75% { text-shadow: -1px 0 black, -2px 0 black, -3px 0 black, -4px 0 black, -5px 0 black; }
         100% { text-shadow: 0 0 black; }
-   
-}
+      }
+
 #title {
     text-align: center;
     animation-duration: 45s;
@@ -37,4 +37,5 @@ article.coffee_mug_header {
         to {
           margin-left: 0%;
           width: 100%;
+        }
 }

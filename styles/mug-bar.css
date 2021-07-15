@@ -1,4 +1,7 @@
 .mug-bar {
     display: flex;
     background-color: black;
+    height: 25px;
+    margin-top: 2em;
+    margin-bottom: 2em;
   }
