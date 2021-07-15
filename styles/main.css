@@ -3,3 +3,7 @@
 @import url("./footer.css");
 @import url("./navbar.css");
 /* test */
+
+body {
+    background-image: url("/images/static.gif");
+}
