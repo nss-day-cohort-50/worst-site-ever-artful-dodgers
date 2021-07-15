@@ -1,6 +1,7 @@
 @import url("coffeeAd.css");
 @import url("slideshow.css");
 @import url("./footer.css");
+@import url("header.css");
 @import url("./navbar.css");
 @import url("./mug-bar.css");
 
@@ -8,7 +9,6 @@
 footer {
     background-color: tomato;
 }
-/* test */
 
 body {
     background-image: url("/images/static.gif");
