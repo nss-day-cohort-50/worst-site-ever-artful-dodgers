@@ -1,8 +1,11 @@
 @import url("coffeeAd.css");
 @import url("slideshow.css");
 @import url("./footer.css");
+@import url("header.css");
 @import url("./navbar.css");
-/* test */
+footer {
+    background-color: tomato;
+}
 
 body {
     background-image: url("/images/static.gif");
