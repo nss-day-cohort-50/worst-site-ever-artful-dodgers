@@ -1,6 +1,6 @@
 .slideshow {
     display: flex;
-    width: 700px;
+    max-width: 1375px;
     height: 500px;
     overflow: scroll;
     border: 20px purple;
