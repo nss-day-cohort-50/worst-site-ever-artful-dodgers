@@ -10,3 +10,8 @@
 footer {
     background-color: tomato;
 }
+/* test */
+
+body {
+    background-image: url("/images/static.gif");
+}
